@@ -1,0 +1,35 @@
+_repo: Nuori-myll-ri4-n-yt-ksinen-huvin-ytelm-_14956
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lassila, Maiju
+    aliases:
+    - Untola, Algoth
+    - Tietavainen, Algoth
+    - Vatanen, J. I.
+    - Rantamala, Irmari
+    - Tietäväinen, Algoth
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '3754'
+    url: http://www.gutenberg.org/2009/agents/3754
+    wikipedia:
+    - http://www.kirjasto.sci.fi/lassila.htm
+    - http://fi.wikipedia.org/wiki/Algot_Untola
+description: ''
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14956'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+title: 'Nuori mylläri: 4-näytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/14956
